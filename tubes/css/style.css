@@ -1,0 +1,32 @@
+.jumbotron {
+  background: url("../assets/img/bg.jpg") no-repeat center center;
+  background-size: cover;
+  height: 500px;
+}
+
+.bg-warning {
+  background-color: orangered !important;
+}
+
+.btn-warning {
+  background-color: orangered;
+  border-color: orangered;
+  color: white;
+}
+
+.btn-warning:hover,
+.btn-warning:active {
+  background-color: orangered !important;
+  border-color: orangered;
+}
+
+.btn-outline-warning {
+  border-color: orangered;
+  color: orangered;
+}
+
+.btn-outline-warning:hover,
+.btn-outline-warning:active {
+  background-color: orangered !important;
+  border-color: orangered;
+}
